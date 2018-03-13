@@ -1,0 +1,11 @@
+D:\(0) Applications\FileChangeAlert\FileChangeAlert\bin\Debug\FileChangeAlert.exe.config
+D:\(0) Applications\FileChangeAlert\FileChangeAlert\bin\Debug\FileChangeAlert.exe
+D:\(0) Applications\FileChangeAlert\FileChangeAlert\bin\Debug\FileChangeAlert.pdb
+D:\(0) Applications\FileChangeAlert\FileChangeAlert\obj\Debug\FileChangeAlert.csprojResolveAssemblyReference.cache
+D:\(0) Applications\FileChangeAlert\FileChangeAlert\obj\Debug\FileChangeAlert.Form1.resources
+D:\(0) Applications\FileChangeAlert\FileChangeAlert\obj\Debug\FileChangeAlert.Properties.Resources.resources
+D:\(0) Applications\FileChangeAlert\FileChangeAlert\obj\Debug\FileChangeAlert.csproj.GenerateResource.Cache
+D:\(0) Applications\FileChangeAlert\FileChangeAlert\obj\Debug\FileChangeAlert.csproj.CoreCompileInputs.cache
+D:\(0) Applications\FileChangeAlert\FileChangeAlert\obj\Debug\FileChangeAlert.exe
+D:\(0) Applications\FileChangeAlert\FileChangeAlert\obj\Debug\FileChangeAlert.pdb
+D:\(0) Applications\FileChangeAlert\FileChangeAlert\obj\Debug\FileChangeAlert.Form2.resources
