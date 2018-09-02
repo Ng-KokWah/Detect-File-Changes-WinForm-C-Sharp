@@ -122,7 +122,7 @@ namespace FileChangeAlert
             //for folder/directory
             else
             {
-                DateTime dt = Directory.GetLastAccessTime(file1.Text);
+                DateTime dt = Directory.GetLastWriteTime(file1.Text);
 
                 String[] n = Directory.GetFiles(file1.Text);
                 String newFileContent = "";
@@ -273,7 +273,7 @@ namespace FileChangeAlert
                 {
                     btnFolder.Enabled = false;
 
-                    DateTime dt = Directory.GetLastAccessTime(file1.Text);
+                    DateTime dt = Directory.GetLastWriteTime(file1.Text);
 
                     if (FileHandling.fileExists("../../Logs/Folder1/oldTime.txt"))
                     {
