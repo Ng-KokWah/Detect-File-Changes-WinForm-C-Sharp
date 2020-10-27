@@ -1,0 +1,13 @@
+D:\(0) Applications\FileChangeDetection\FileChangeDetection\bin\Debug\FileDB.mdf
+D:\(0) Applications\FileChangeDetection\FileChangeDetection\bin\Debug\FileDB_log.ldf
+D:\(0) Applications\FileChangeDetection\FileChangeDetection\bin\Debug\FileChangeDetection.exe.config
+D:\(0) Applications\FileChangeDetection\FileChangeDetection\bin\Debug\FileChangeDetection.exe
+D:\(0) Applications\FileChangeDetection\FileChangeDetection\bin\Debug\FileChangeDetection.pdb
+D:\(0) Applications\FileChangeDetection\FileChangeDetection\obj\Debug\FileChangeDetection.csprojAssemblyReference.cache
+D:\(0) Applications\FileChangeDetection\FileChangeDetection\obj\Debug\FileChangeDetection.AddFile.resources
+D:\(0) Applications\FileChangeDetection\FileChangeDetection\obj\Debug\FileChangeDetection.CompareFile.resources
+D:\(0) Applications\FileChangeDetection\FileChangeDetection\obj\Debug\FileChangeDetection.ConstantCheck.resources
+D:\(0) Applications\FileChangeDetection\FileChangeDetection\obj\Debug\FileChangeDetection.Properties.Resources.resources
+D:\(0) Applications\FileChangeDetection\FileChangeDetection\obj\Debug\FileChangeDetection.csproj.GenerateResource.cache
+D:\(0) Applications\FileChangeDetection\FileChangeDetection\obj\Debug\FileChangeDetection.exe
+D:\(0) Applications\FileChangeDetection\FileChangeDetection\obj\Debug\FileChangeDetection.pdb
